@@ -1,0 +1,11 @@
+C:\Users\giova\source\repos\ExercicioEnums\ExercicioEnums\bin\Debug\netcoreapp3.1\ExercicioEnums.exe
+C:\Users\giova\source\repos\ExercicioEnums\ExercicioEnums\bin\Debug\netcoreapp3.1\ExercicioEnums.deps.json
+C:\Users\giova\source\repos\ExercicioEnums\ExercicioEnums\bin\Debug\netcoreapp3.1\ExercicioEnums.runtimeconfig.json
+C:\Users\giova\source\repos\ExercicioEnums\ExercicioEnums\bin\Debug\netcoreapp3.1\ExercicioEnums.runtimeconfig.dev.json
+C:\Users\giova\source\repos\ExercicioEnums\ExercicioEnums\bin\Debug\netcoreapp3.1\ExercicioEnums.dll
+C:\Users\giova\source\repos\ExercicioEnums\ExercicioEnums\bin\Debug\netcoreapp3.1\ExercicioEnums.pdb
+C:\Users\giova\source\repos\ExercicioEnums\ExercicioEnums\obj\Debug\netcoreapp3.1\ExercicioEnums.csprojAssemblyReference.cache
+C:\Users\giova\source\repos\ExercicioEnums\ExercicioEnums\obj\Debug\netcoreapp3.1\ExercicioEnums.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\ExercicioEnums\ExercicioEnums\obj\Debug\netcoreapp3.1\ExercicioEnums.AssemblyInfo.cs
+C:\Users\giova\source\repos\ExercicioEnums\ExercicioEnums\obj\Debug\netcoreapp3.1\ExercicioEnums.dll
+C:\Users\giova\source\repos\ExercicioEnums\ExercicioEnums\obj\Debug\netcoreapp3.1\ExercicioEnums.pdb
